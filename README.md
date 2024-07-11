@@ -1,16 +1,38 @@
-## Hi there 👋
+# Ahmed Sami NLP Engineer 
 
-<!--
-**Ahmed-Sami-NLP-Freelancer/Ahmed-Sami-NLP-Freelancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+A proffisinal NLP Engineer. I'm passionate about leveraging natural language processing to create intelligent systems and extract meaningful insights from text data.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- TensorFlow
+- PyTorch
+- NLTK
+- spaCy
+- Scikit-learn
+- Hugging Face Transformers
+- Machine Learning
+- Deep Learning
+- Text Classification
+- Named Entity Recognition (NER)
+- Sentiment Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### [Project Name 1]
+Brief description of the NLP project, technologies used, and your role.
+
+### [Project Name 2]
+Brief description of the NLP project, technologies used, and your role.
+
+## Education
+Modern Academy For Engineering And Technology
+2.9 - Expected Graduation: 2025
+
+## Contact
+- 🔗 LinkedIn: Ahmed Sami(https://www.linkedin.com/in/ahmed-abdelaleem-b64557221/)
+- 💬 WhatsApp: 01067522016(https://wa.me/01067522016)
+- 📧 Email: ahmed222333sami@gmail.com(mailto:ahmed222333sami@gmail.com)
+
+## Looking for Opportunities
+I'm currently seeking  junior positions in NLP and machine learning. Feel free to reach out if you'd like to collaborate or have any opportunities!
